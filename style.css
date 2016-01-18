@@ -1,57 +1,63 @@
-body {
-  font-family: 'helvetica neue', arial, sans-serif;
-  font-weight: 300;
-  background-image: url(Background2.jpg);
-  background-size: 1400px 3500px;
-}
-#wrapper {
-  width: 900px;
-  background: rgba(255,255,255,0.50);
-  margin: 20px auto 20px auto;
-}
-h4,p {color: black;
-margin-left: 10px;
-}
-h2 {
-    font-size: 50px;
-    font-weight: 500;
-    font-kerning: inherit;
-    text-align: center; 
-    margin-left: 10px;
-}
-h5{margin-left: 10px;}
-
-.label{
-	position:relative;
-	bottom: 50px;
-	background: rgba(255,255,255,0.8);
-	visibility: hidden;
 }
 
-.Fellowship_pics{
-  margin-top:5px;
-  margin-bottom:5px;}
-
-.Fellowship_pics{
-  color:#E59934;
+.dropdown-menu .sub-menu {
+    left: 100%;
+    position: absolute;
+    top: 0;
+    visibility: hidden;
+    margin-top: -1px;
 }
 
-.Fellowship_pics ul li {
-  margin:17px;
-  padding:5px;
-  width: 200px;
-  height:300px;
-  float: left;  
-  border: 1px solid darkgray;
-  list-style:none;
-      
-}
-.Fellowship_pics ul li:hover {
-  border: 1px solid orange;
+.dropdown-menu li:hover .sub-menu {
+    visibility: visible;
 }
 
-.Fellowship_pics ul li:hover .label {
-  visibility: visible;
+.dropdown:hover .dropdown-menu {
+    display: block;
 }
 
+.navbar {
+	margin-bottom: 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+.jumbotron1 {
+  padding: 0px 0px 0px 0px;
+  margin-bottom: 40px;
+  margin-top: 0px;
+  height: 450px;
+  color: inherit;
+  background-color: #f9f9f9;
+  text-align: center;
+  background-size: cover;
+  background-image: url("jumbotron_1.jpg")
+}
+
+.jumbotron2 {
+  padding: 0px 0px 0px 0px;
+  margin-bottom: 40px;
+  margin-top: 0px;
+  height: 450px;
+  color: inherit;
+  background-color: #f9f9f9;
+  text-align: center;
+  background-size: cover;
+  background-image: url("jumbotron_2.jpg")
+}
+
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+    
+}
+
+.caption {
+	font-size: 100px;
+	text-align: middle;
+}
+
+.jumbotron_text {
+	vertical-align: middle;
+	text-align: left;
+}
 

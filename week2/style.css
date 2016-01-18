@@ -1,0 +1,21 @@
+h1 {
+	color: red;
+}
+
+
+.navbar-inverse {
+    background-color: green;
+    border-color: solid blue;
+    border-width: 5px;
+}
+
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: purple;
+}
+
+
+.jumbotron{
+background:url(jumbotron.jpg);
+}
