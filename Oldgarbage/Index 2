@@ -1,0 +1,103 @@
+
+<div class="AspNet-Menu-Horizontal" id="ctl01_SiteMenu1_ctl00" style="z-index: 880;">
+		<ul class="sf-menu sf-navbar">
+			<li class="current">
+				<a href="/home.aspx" class="current">
+					<img src="Data/SiteImages/FeatureIcons/home.gif" alt="Home"> Home</a>
+			</li>
+			<li>
+				<a href="http://www.rajasthanroyals.com/teamroyals.aspx" class="inactive">
+					Team Royals</a>
+			</li>
+			<li class=" sf-with-ul">
+				<a href="/1news.aspx" class="inactive">
+					News</a>
+				<ul>
+					<li>
+						<a href="/1news--events.aspx" class="inactive">
+							News &amp; Events</a>
+					</li>
+					<li>
+						<a href="/team-news.aspx" class="inactive">
+							Team News</a>
+					</li>
+					<li>
+						<a href="/1owners-in-the-press.aspx" class="inactive">
+							Owners in the press</a>
+					</li>
+				</ul>
+			</li>
+			<li class=" sf-with-ul">
+				<a href="/1the-club.aspx" class="inactive">
+					The Club</a>
+				<ul>
+					<li>
+						<a href="/about-the-brand.aspx" class="inactive">
+							About the Brand</a>
+					</li>
+					<li>
+						<a href="/leadershipteam.aspx" class="inactive">
+							Leadership Team</a>
+					</li>
+					<li>
+						<a href="/managementteam.aspx" class="inactive">
+							Management Team</a>
+					</li>
+					<li>
+						<a href="/partners.aspx" class="inactive">
+							Partners</a>
+					</li>
+					<li>
+						<a href="/wallpapers.aspx" class="inactive">
+							WallPapers</a>
+					</li>
+					<li>
+						<a href="/batforthegirlchild.aspx" class="inactive">
+							Bat For The Girl Child </a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="http://www.rajasthanroyals.com/Fanzone/" class="inactive" onclick="window.open(this.href, '_blank', ''); return false;" onkeypress="window.open(this.href, '_blank', ''); return false;">
+					Fans</a>
+			</li>
+			<li>
+				<a href="/Subscribe/ThankYou.aspx" class="inactive">
+					Membership</a>
+			</li>
+			<li>
+				<a href="/shop-1.aspx" class="inactive">
+					Shop</a>
+			</li>
+			<li>
+				<a href="/fan-awards.aspx" class="inactive">
+					Fan Awards</a>
+			</li>
+		</ul>
+
+</div>
+
+
+                </div>
+            </div>
+            <div id="ctl01_divLeft" class="leftside left2column" style="z-index: 870;">
+	               
+                
+
+<script type="text/javascript">
+    function PopUpClose(ReturnUrlFB1) {                
+        window.opener.location.href = ReturnUrlFB1;
+        window.close();                        
+    }          
+</script>
+
+
+<div id="ctl01_leftContent_ctl00_pnlOuterWrap" class="" style="z-index: 860;">
+
+<div class="rtop" style="z-index: 850;"><div class="r1" style="z-index: 840;"></div><div class="r2" style="z-index: 830;"></div><div class="r3" style="z-index: 820;"></div><div class="r4" style="z-index: 810;"></div></div>
+<div id="ctl01_leftContent_ctl00_pnlInnerWrap" class="panelwrapper htmlmodule" style="z-index: 800;">
+
+<a id="module4582" class="moduleanchor"></a>
+<div id="ctl01_leftContent_ctl00_pnlOuterBody" class="" style="z-index: 790;">
+
+<div id="ctl01_leftContent_ctl00_pnlInnerBody" class="modulecontent" style="z-index: 780;">
